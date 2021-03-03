@@ -17,7 +17,6 @@
     <preference name="disallowOverscroll" value="true" />
     <preference name="exit-on-suspend" value="false" />
     <preference name="prerendered-icon" value="false" />
-    <preference name="KeepRunning" value="true" /> onlyu android
     <preference name="target-device" value="universal" />
     <preference name="SplashShowOnlyFirstTime" value="false" />
     <preference name="SplashScreen" value="screen" />-->
